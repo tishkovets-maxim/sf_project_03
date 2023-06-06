@@ -27,4 +27,12 @@ Had the same issue. Solved running those commands there
 
 
 
+20:35 2023/6/6
+пушу файл about.txt
+
+Сообщает мол 
+branch master has no remote branch
+да, публикую этот бренч
+
+
 
