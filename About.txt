@@ -1,0 +1,30 @@
+﻿20:28 2023/6/6
+
+https://stackoverflow.com/questions/54876421/make-sure-you-configure-your-user-email-and-user-name-in-git-when-trying-t
+Make sure you run this commands
+git config --global user.name "John Doe"
+git config --global user.email "johndoe@email.com"
+
+In the terminal. In this directory -I´m a Windows user-: C:\Program Files\Git\bin
+Had the same issue. Solved running those commands there
+
+Вот это сраборало
+
+20:29 2023/6/6
+Делаем commit - нужен message
+
+Пишем message - commit проходит
+
+Делаем push - сообщает, что нужен remote
+
+Добавляем remote по имени test - проходит
+
+20:30 2023/6/6
+Студия хочет
+"periodically run git fetch"
+
+Отвечаю Ask me later
+
+
+
+
